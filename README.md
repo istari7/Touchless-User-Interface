@@ -9,7 +9,7 @@ Below gif shows how finger movemment simulates click on the OS
 
 ### Index Finger - Left Click
 
-![](hand.gif)
+![](sample_output.gif)
 
 ## Alert
 This is the oldest test demo application and the version 1.0 will be uploaded in the upcoming weeks once all the edge cases have been solved.
