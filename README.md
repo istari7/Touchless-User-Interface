@@ -3,8 +3,12 @@
 Python Application that lets user control the system using their hands.
 ## Sample Demonstration
 Below gif shows how finger movemment simulates click on the OS
-Middle Finger - Right CLick
-Index Finger - Left Click
+
+
+### Middle Finger - Right CLick
+
+### Index Finger - Left Click
+
 ![](hand.gif)
 
 ## Alert
